@@ -1,0 +1,40 @@
+/* editor styles */
+
+.editor h1, .editor h2, .editor h3, .editor h4, .editor h5, .editor h6 {
+	color: #fff;
+	line-height:120%;
+	font-weight:300;
+}
+.editor h1 {
+	font-size: 3em;
+}
+.editor h2 {
+	font-size:2.4em;
+	border-bottom:1px solid #da292e;
+	line-height:120%;
+	font-style:italic;
+	padding:10px 0 10px 6px;
+}
+.editor h3 {
+	font-size: 2em;
+	color:#75a975;
+	padding:10px 6px 0 6px;
+}
+.editor h4 {
+	font-size: 1.3em;
+	margin:5px 0;
+	font-weight:bold;
+}
+.editor h5 {
+	font-size: 1.214em;
+}
+.editor h6 {
+	font-size: 1.143em;
+}
+.editor p {
+	font-size:1.2em;
+	font-family:Verdana, Geneva, sans-serif;
+	line-height:120%
+}
+.editor form.styled p{padding:0px}
+input[type="submit"]:hover{background-position:0 -32px}
